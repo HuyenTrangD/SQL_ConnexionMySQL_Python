@@ -13,3 +13,5 @@ cur.execute(requete)
 resultat = cur.fetchall()
 for row in resultat:
     print(row)
+
+    hjgjhghj
