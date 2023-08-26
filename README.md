@@ -1,14 +1,6 @@
-# Connexion avec MySQL via python
+# Connexion avec MySQL via Python
 
-## Description
-__Autrice__: Trang DO  
-__Date de création__: 2023-08-25  
-__Présentation__: Ce notebook donne des instructions pour connecter à la base de données dans un serveur MySQL via Python.
-
-## Prérequis
-Une base de données dans un serveur SQL  
-__Inputs__: requêtes SQL  
-__Outputs__: jeu de résultats
+Ce notebook donne des instructions pour connecter à la base de données dans un serveur MySQL via Python.
 
 ## Installation
 - Créer un environnement virtuel
