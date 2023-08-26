@@ -1,7 +1,7 @@
 # Connexion avec MySQL via python
 
 ## Description
-__Auteur__: Trang DO  
+__Autrice__: Trang DO  
 __Date de création__: 2023-08-25  
 __Présentation__: Ce notebook donne des instructions pour connecter à la base de données dans un serveur MySQL via Python.
 
