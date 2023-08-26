@@ -1,4 +1,4 @@
-# Connexion avec MySQL via my-connector-python et pyodbc
+# Connexion avec MySQL via python
 
 ## Description
 __Auteur__: Trang DO  
