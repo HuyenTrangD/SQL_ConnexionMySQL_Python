@@ -11,8 +11,6 @@ __Inputs__: requêtes SQL
 __Outputs__: jeu de résultats
 
 ## Installation
-
-## Installation
 - Créer un environnement virtuel
     ```bash
     # Linux
